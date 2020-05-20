@@ -27,3 +27,7 @@ It should render `notifications_none-24px.svg` when `haveUnread` jsx attribute (
     href="/?page=notifications"
 />
 ```
+
+## PS
+
+Please put your svg files to the `./public` folder. And use them as `src="notifications-24px.svg"`
