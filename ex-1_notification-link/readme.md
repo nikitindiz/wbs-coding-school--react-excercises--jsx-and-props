@@ -1,3 +1,5 @@
+![](bell.png "email-notification-v1")
+
 # \<NotificationLink />
 
 Create `NotificationLink` component, that renders `<a>` tag with given `href` with bell icon.
